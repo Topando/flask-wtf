@@ -1,0 +1,19 @@
+{
+    "members": [
+        {
+            "name": "Steve Jobs",
+            "picture": "img/steve_jobs.png",
+            "content": "инженер, космонавт, крутой парень"
+        },
+        {
+            "name": "Mark Zuckerberg",
+            "picture": "img/mark_zuckerberg.png",
+            "content": "плейбой, миллиардер"
+        },
+        {
+            "name": "Pavel Durov",
+            "picture": "img/pavel_durov.png",
+            "content": "астронавт, астрогеолог"
+        }
+    ]
+}
